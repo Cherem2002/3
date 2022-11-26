@@ -1,0 +1,16 @@
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\x86\leptonica-1.80.0.dll
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\x86\tesseract41.dll
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\x64\leptonica-1.80.0.dll
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\x64\tesseract41.dll
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\IS.exe.config
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\IS.exe
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\IS.pdb
+C:\Users\МАРИНА\source\repos\IS\IS\bin\Debug\Tesseract.dll
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.csprojAssemblyReference.cache
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.Form1.resources
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.Properties.Resources.resources
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.csproj.GenerateResource.cache
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.csproj.CoreCompileInputs.cache
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.csproj.CopyComplete
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.exe
+C:\Users\МАРИНА\source\repos\IS\IS\obj\Debug\IS.pdb
